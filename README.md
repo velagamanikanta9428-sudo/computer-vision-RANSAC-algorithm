@@ -1,4 +1,4 @@
-# CV Lab 12 – Image Alignment Using ORB Feature Matching and Homography
+# Image Alignment Using ORB Feature Matching and Homography
 
 ## Aim
 To align a query image with a reference image by detecting and matching ORB features, estimating a homography matrix using RANSAC, and applying a perspective transformation.
@@ -157,4 +157,9 @@ The notebook produces:
 - The input images are not embedded in the notebook. Add both images to the repository so others can reproduce the experiment.
 
 ## Author
-Add your name, department, college, and academic details here if required.
+Velaga Manikanta Sai.
+
+241FA23016.
+
+III-Data Science.
+
